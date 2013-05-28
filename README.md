@@ -15,3 +15,5 @@ To compile this game, run the following in dosbox:
 5. guardian.exe
 
 The gameplay instructions are given the Game Interface.
+
+This is developed as a team of 3. The other developers are Saikrishna, Dileep Kumar
